@@ -1,0 +1,14 @@
+C:\Users\mkhwa\source\repos\factorial.service\factorial.service\bin\Debug\net8.0\factorial.service.exe
+C:\Users\mkhwa\source\repos\factorial.service\factorial.service\bin\Debug\net8.0\factorial.service.deps.json
+C:\Users\mkhwa\source\repos\factorial.service\factorial.service\bin\Debug\net8.0\factorial.service.runtimeconfig.json
+C:\Users\mkhwa\source\repos\factorial.service\factorial.service\bin\Debug\net8.0\factorial.service.dll
+C:\Users\mkhwa\source\repos\factorial.service\factorial.service\bin\Debug\net8.0\factorial.service.pdb
+C:\Users\mkhwa\source\repos\factorial.service\factorial.service\obj\Debug\net8.0\factorial.service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mkhwa\source\repos\factorial.service\factorial.service\obj\Debug\net8.0\factorial.service.AssemblyInfoInputs.cache
+C:\Users\mkhwa\source\repos\factorial.service\factorial.service\obj\Debug\net8.0\factorial.service.AssemblyInfo.cs
+C:\Users\mkhwa\source\repos\factorial.service\factorial.service\obj\Debug\net8.0\factorial.service.csproj.CoreCompileInputs.cache
+C:\Users\mkhwa\source\repos\factorial.service\factorial.service\obj\Debug\net8.0\factorial.service.dll
+C:\Users\mkhwa\source\repos\factorial.service\factorial.service\obj\Debug\net8.0\refint\factorial.service.dll
+C:\Users\mkhwa\source\repos\factorial.service\factorial.service\obj\Debug\net8.0\factorial.service.pdb
+C:\Users\mkhwa\source\repos\factorial.service\factorial.service\obj\Debug\net8.0\factorial.service.genruntimeconfig.cache
+C:\Users\mkhwa\source\repos\factorial.service\factorial.service\obj\Debug\net8.0\ref\factorial.service.dll
