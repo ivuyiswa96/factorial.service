@@ -6,7 +6,7 @@ This simpple project calculate facotrial using tread safely
 
 # How to Run
 
-1. Open the code in **Visual Studio** or any C# editor (like Visual Studio Code or JetBrains Rider).
+1. Open the code in **Visual Studio** or visual studio Code
 
 2. Make sure the project is targeting **.NET Core**, **.NET 6**, or **.NET 7**.
 
